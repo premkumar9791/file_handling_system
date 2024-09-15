@@ -1,11 +1,6 @@
 
 //  Topic: File Handling
 
-//  Write a Python program that reads a file containing a list of integers
-//  (one integer per line), calculates the sum of 
-//  these integers, and writes the result to a new file called sum_output.txt.
-
-
 package test;
 
 
